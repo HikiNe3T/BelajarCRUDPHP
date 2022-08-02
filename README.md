@@ -35,7 +35,5 @@ Aplikasi ini Open Source dan tidak sepenuhnya saya buat sendiri Full Stack, namu
 * Import database "siswa.sql" ke dbms favorit kalian.
 * Jalankan di web browser ( Chrome, Firefox, Edge, Safari )
 
-### 💖 Semangat UKK for Adistia..
-
 ### 📜 License 
 **This application is open-sourced software licensed under the MIT license**
